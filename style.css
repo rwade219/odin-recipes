@@ -1,12 +1,28 @@
 body {
     background-color: #f3b5d4f5;
-    text-align: center;
 }
 h1 {
     font-family: 'Courier New', Courier, monospace;
     color: #8a2be2;
+    text-align: center;
 }
 .heading {
     color: green;
     font-weight: bold;
 }
+button{
+    background-color: yellow;
+    
+}
+
+.images {
+    height: auto;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+div.container {
+    text-align: center;
+}
+
